@@ -1,4 +1,4 @@
-# zamani.github.io
+# zamanimatzin
 
 ## Hey 👋, This is Ahmad Zamani
 [![Gmail Badge](https://img.shields.io/badge/-ahmadzamanimatzin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ahmadzamanimatzin@gmail.com)](mailto:ahmadzamanimatzin@gmail.com) 
